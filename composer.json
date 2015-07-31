@@ -9,6 +9,6 @@
             "email": "jjuventench@gna.es"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "master",
     "require": {}
 }
