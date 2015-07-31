@@ -1,7 +1,7 @@
 {
     "name": "gna/nousite",
     "description": "generate new hosts sites",
-    "type": "bash script",
+    "type": "bash",
     "license": "GNU license v2",
     "authors": [
         {
@@ -9,6 +9,6 @@
             "email": "jjuventench@gna.es"
         }
     ],
-    "minimum-stability": "master",
+    "minimum-stability": "stable",
     "require": {}
 }
