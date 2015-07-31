@@ -1,0 +1,14 @@
+{
+    "name": "JoanJ/nousite",
+    "description": "generate new hosts sites",
+    "type": "bash script",
+    "license": "GNU license v2",
+    "authors": [
+        {
+            "name": "Joan Juventench",
+            "email": "jjuventench@gna.es"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
