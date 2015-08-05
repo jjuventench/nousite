@@ -2,7 +2,7 @@
     "name": "gna/nousite",
     "description": "generate new hosts sites",
     "type": "bash",
-    "license": "GNU license v2",
+    "license": "GNU license v3",
     "authors": [
         {
             "name": "Joan Juventench",
