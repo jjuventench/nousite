@@ -9,4 +9,5 @@
             "email": "jjuventench@gna.es"
         }
     ],
+"minimum-stability": "master",    
 }
