@@ -8,6 +8,10 @@
             "name": "Joan Juventench",
             "email": "jjuventench@gna.es"
         }
-    ],
-"minimum-stability": "master",    
+    ]
+},
+    "config": {
+        "preferred-install": "dist"
+    },
+    "minimum-stability": "stable"
 }
