@@ -9,9 +9,4 @@
             "email": "jjuventench@gna.es"
         }
     ]
-},
-    "config": {
-        "preferred-install": "dist"
-    },
-    "minimum-stability": "stable"
 }
